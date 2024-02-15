@@ -42,7 +42,7 @@ const HeaderComponent = () => {
 const HeaderComponent2 = () => (
     <div>
         <Title />
-        <h2>heyy</h2>
+        <h2>hey</h2>
     </div>
 )
 
