@@ -25,7 +25,9 @@
 # Component Composition
 
 - Where component in another component
+
 # JSX
-Java Script Xml 
-it is like a HTML code 
-where there is "{}" we can write ant JS code in it
+
+Java Script Xml
+it is like a HTML code
+where there is "{}" we can write an JS code in it
