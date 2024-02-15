@@ -16,7 +16,7 @@ const title = (
     </h1>
 )
 
-
+const heading = React.createElement("h1", { id: "heading" }, "HI iam Heading")
 
 
 // JSX => Babel is transpiled it to  React.createElement => React Element => JS Object => HTML Element(render)
